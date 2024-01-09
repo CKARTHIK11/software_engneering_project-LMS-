@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap");
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: "Poppins", sans-serif;
+}
+body {
+background-image: url("bg.jpg");
+/* background-size: cover; */
+margin: 0;
+font-family: "Poppins", sans-serif;
+font-size: 10px;
+line-height: 2;
+}
+h1{
+    font-family: "Poppins", sans-serif;
+    font-size:50px !important;
+}
+.navbar-brand{
+    font-size:25px !important;
+} 
+.box {
+    /* margin-left: 400px; */
+    padding: 100px 100px;
+}
+.details {
+    border: 2px solid #555;
+    border-radius: 10px;
+    font-size: medium;
+    text-align: center;
+    display: block;
+    min-width: 700px;
+    background-color: #fcfcfc;
+    padding: 10px;
+}
+
+
+
+
+/* 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  margin: 0;
+  max-width: 640px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  line-height: 2;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  height: 100%;
+  background-color: #ffffff;
+  position: fixed;
+  overflow: auto;
+}
+li a {
+  display: block;
+  padding: 8px 16px;
+  color: black;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: rgb(128, 128, 128);
+  color: rgb(255, 255, 255);
+}
+
+li a:hover:not(.active) {
+  background-color: lightgray;
+  color: white;
+}
+.box {
+  margin-left: 400px;
+  padding: 100px 100px;
+}
+.details {
+  border: 2px solid #555;
+  border-radius: 10px;
+  font-size: medium;
+  text-align: center;
+  display: block;
+  min-width: 700px;
+  background-color: #fcfcfc;
+  padding: 10px;
+}
+.head {
+  display: block;
+  width: 100vw;
+  text-align: center;
+  background: #ffffff;
+  color: gray;
+  font-size: 30px;
+}
+.head img {
+  float: left;
+  width: 120px;
+  height: 120px;
+  padding: 10px 10px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+} */
